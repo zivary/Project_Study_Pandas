@@ -1,4 +1,5 @@
-# Project_Study_PANDAS
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/1280px-Pandas_logo.svg.png">
+# Project_Study_Pandas
 
 ## 2022년 3주차 Study
 
