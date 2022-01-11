@@ -11,7 +11,8 @@ Pandas 10분 완성
 >https://pandas.pydata.org/pandas-docs/stable/user_guide/10min.html#minutes-to-pandas
 
 강의 YouTube 
->https://www.youtube.com/watch?v=bI7nnhXsBy8&list=PLaTc2c6yEwmry4B78IJwD47gE8b_ZEsVR/ 
+>https://www.youtube.com/watch?v=bI7nnhXsBy8&list=PLaTc2c6yEwmry4B78IJwD47gE8b_ZEsVR/ \
+>https://www.youtube.com/playlist?list=PLVNY1HnUlO26Igldy2Q6Nb2LZbpQWTyle
 
 실습코드 
 >https://github.com/corazzon/cracking-the-pandas-cheat-sheet/ 
