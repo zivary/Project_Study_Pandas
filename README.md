@@ -6,7 +6,7 @@
 
 ## 2022년 2주차 Study
 
-Pandas 10분 완성 
+10 minutes to pandas 
 >https://dataitgirls2.github.io/10minutes2pandas/ \
 >https://pandas.pydata.org/pandas-docs/stable/user_guide/10min.html#minutes-to-pandas
 
