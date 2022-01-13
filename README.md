@@ -9,6 +9,8 @@ Pandas_Cheat_Sheet
 >https://www.youtube.com/playlist?list=PLaTc2c6yEwmry4B78IJwD47gE8b_ZEsVR \
 >https://www.youtube.com/playlist?list=PLVNY1HnUlO26Igldy2Q6Nb2LZbpQWTyle
 
+>https://youtu.be/8_VWnRvbGPs
+
 실습코드 
 >https://github.com/corazzon/cracking-the-pandas-cheat-sheet/ 
 
