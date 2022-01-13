@@ -3,6 +3,8 @@
 
 ## 2022년 3주차 Study
 
+Pandas_Cheat_Sheet
+
 강의 YouTube 
 >https://www.youtube.com/playlist?list=PLaTc2c6yEwmry4B78IJwD47gE8b_ZEsVR \
 >https://www.youtube.com/playlist?list=PLVNY1HnUlO26Igldy2Q6Nb2LZbpQWTyle
