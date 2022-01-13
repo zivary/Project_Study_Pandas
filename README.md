@@ -1,6 +1,7 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/220px-Pandas_logo.svg.png">
 # Project_Study_Pandas
 
+---
 ## 2022년 3주차 Study
 
 ### Pandas_Cheat_Sheet
@@ -17,7 +18,7 @@
 [GongbroDesk]
 >https://youtu.be/8_VWnRvbGPs
 
-
+---
 ## 2022년 2주차 Study
 
 ### 10 minutes to pandas 
