@@ -5,7 +5,8 @@
 ---
 ## 2022년 3주차 Study
 
-### Pandas 기초 - cheat sheet 따라하기
+### [todaycode오늘코드]Pandas 기초 - cheat sheet 따라하기
+>[todaycode오늘코드] \
 >강의 YouTube \
 >https://www.youtube.com/playlist?list=PLaTc2c6yEwmry4B78IJwD47gE8b_ZEsVR
 >
@@ -22,7 +23,7 @@
 
 
 ### 파이썬 기초 | 데이터 분석 | 설치부터 라이브러리 예제까지 (feat. 넘파이, 맷플롯립, 판다스)
-[GongbroDesk]
+>[GongbroDesk] \
 >강의 YouTube \
 >https://youtu.be/8_VWnRvbGPs
 
