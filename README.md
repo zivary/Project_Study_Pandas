@@ -12,7 +12,7 @@
 >실습 코드 \
 >https://github.com/corazzon/cracking-the-pandas-cheat-sheet
 
-### Pandas 팬더스 강의 기초 실습 
+### [Minsuk Heo 허민석]Pandas 팬더스 강의 기초 실습
 >강의 YouTube \
 >https://www.youtube.com/playlist?list=PLVNY1HnUlO26Igldy2Q6Nb2LZbpQWTyle
 >
