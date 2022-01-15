@@ -5,7 +5,7 @@
 ---
 ## 2022년 3주차 Study
 
-### Pandas_Cheat_Sheet
+### Pandas 기초 - cheat sheet 따라하기
 >강의 YouTube \
 >https://www.youtube.com/playlist?list=PLaTc2c6yEwmry4B78IJwD47gE8b_ZEsVR
 >
