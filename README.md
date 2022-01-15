@@ -8,15 +8,14 @@
 ### [todaycode오늘코드]Pandas 기초 - cheat sheet 따라하기
 >[todaycode오늘코드] \
 >강의 YouTube \
->https://www.youtube.com/playlist?list=PLaTc2c6yEwmry4B78IJwD47gE8b_ZEsVR
->
+>https://www.youtube.com/playlist?list=PLaTc2c6yEwmry4B78IJwD47gE8b_ZEsVR \
 >실습 코드 \
 >https://github.com/corazzon/cracking-the-pandas-cheat-sheet
 
 ### [Minsuk Heo 허민석]Pandas 팬더스 강의 기초 실습
+>[Minsuk Heo 허민석] \
 >강의 YouTube \
->https://www.youtube.com/playlist?list=PLVNY1HnUlO26Igldy2Q6Nb2LZbpQWTyle
->
+>https://www.youtube.com/playlist?list=PLVNY1HnUlO26Igldy2Q6Nb2LZbpQWTyle \
 >실습 코드, 데이터 파일 \
 >https://github.com/minsuk-heo/pandas
 
