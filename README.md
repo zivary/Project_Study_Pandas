@@ -1,6 +1,6 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/220px-Pandas_logo.svg.png">
 
-# Project_Study_Pandas \
+# Project_Study_Pandas
 >## Pandas API Reference
 >https://pandas.pydata.org/docs/reference/index.html# \
 >https://pandas.pydata.org/pandas-docs/version/0.23/api.html#api-reference 
