@@ -6,7 +6,7 @@
 >https://pandas.pydata.org/pandas-docs/version/0.23/api.html#api-reference 
 
 ---
-## 2022년 3주차 Study
+## 2022년 4주차 Study
 
 ### [todaycode오늘코드]Pandas 기초 - cheat sheet 따라하기
 >[todaycode오늘코드] \
@@ -14,6 +14,8 @@
 >https://www.youtube.com/playlist?list=PLaTc2c6yEwmry4B78IJwD47gE8b_ZEsVR \
 >실습 코드 \
 >https://github.com/corazzon/cracking-the-pandas-cheat-sheet
+---
+## 2022년 3주차 Study
 
 ### [Minsuk Heo 허민석]Pandas 팬더스 강의 기초 실습
 >[Minsuk Heo 허민석] \
