@@ -3,7 +3,8 @@
 # Project_Study_Pandas
 >## Pandas API Reference
 >https://pandas.pydata.org/docs/reference/index.html# \
->https://pandas.pydata.org/pandas-docs/version/0.23/api.html#api-reference 
+>https://pandas.pydata.org/pandas-docs/version/0.23/api.html#api-reference \
+>https://pandas.pydata.org/docs/user_guide/10min.html#min
 
 ---
 ## 2022년 4주차 Study
