@@ -1,4 +1,4 @@
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/220px-Pandas_logo.svg.png">
+![Logo_Pandas_500px](https://user-images.githubusercontent.com/96277148/152209424-e2636ca2-3475-4498-ba0b-e0fa755705fc.png)
 
 # Project_Study_Pandas
 >## Pandas API Reference
