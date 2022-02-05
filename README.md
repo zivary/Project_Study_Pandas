@@ -16,15 +16,14 @@
 ### [Minsuk Heo 허민석]Pandas 팬더스 강의 기초 실습
 >[Minsuk Heo 허민석] \
 >강의 YouTube \
+>Pandas 팬더스 강의 기초 실습 \
 >https://www.youtube.com/playlist?list=PLVNY1HnUlO26Igldy2Q6Nb2LZbpQWTyle \
 >실습 코드, 데이터 파일 \
 >https://github.com/minsuk-heo/pandas
 
-
-
-### 파이썬 기초 | 데이터 분석 | 설치부터 라이브러리 예제까지 (feat. 넘파이, 맷플롯립, 판다스)
 >[GongbroDesk] \
 >강의 YouTube \
+>파이썬 기초 | 데이터 분석 | 설치부터 라이브러리 예제까지 (feat. 넘파이, 맷플롯립, 판다스) \
 >https://youtu.be/8_VWnRvbGPs
 
 ---
