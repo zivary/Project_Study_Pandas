@@ -9,6 +9,7 @@
 ---
 ## 2022년 5주차 Study
 
+### EDA_Titanic
 
 ---
 ## 2022년 3주차 Study
