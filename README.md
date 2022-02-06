@@ -14,7 +14,7 @@
 ---
 ## 2022년 3주차 Study
 
-### [Minsuk Heo 허민석]Pandas 팬더스 강의 기초 실습
+### 2022-03_[Minsuk Heo 허민석]Pandas 팬더스 강의 기초 실습
 >[Minsuk Heo 허민석] \
 >강의 YouTube \
 >Pandas 팬더스 강의 기초 실습 \
@@ -30,7 +30,7 @@
 ---
 ## 2022년 2주차 Study
 
-### 10 minutes to pandas 
+### 2022-02_10 minutes to pandas 
 >https://dataitgirls2.github.io/10minutes2pandas/ \
 >https://pandas.pydata.org/pandas-docs/stable/user_guide/10min.html#minutes-to-pandas
 
